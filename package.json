@@ -7,6 +7,7 @@
 		"type": "git",
 		"url": "git+https://github.com/Keavon/graphite-branded-assets.git"
 	},
+	"main": "src/branded-assets.ts",
 	"license": "SEE LICENSE.txt",
 	"author": "Keavon Chambers"
 }
