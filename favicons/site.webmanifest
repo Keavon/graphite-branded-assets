@@ -1,6 +1,8 @@
 {
 	"name": "Graphite",
 	"short_name": "Graphite",
+	"description": "Graphite is an open source vector graphics editor and procedural design engine. Create and animate with a nondestructive editing workflow that combines layer-based compositing with node-based generative design.",
+	"categories": ["graphics", "design", "animation", "productivity"],
 	"start_url": "/",
 	"id": "/",
 	"icons": [
@@ -15,7 +17,8 @@
 			"type": "image/png"
 		}
 	],
-	"theme_color": "#ffffff",
+	"theme_color": "#222222",
 	"background_color": "#222222",
+	"display_override": ["window-controls-overlay"],
 	"display": "standalone"
 }
