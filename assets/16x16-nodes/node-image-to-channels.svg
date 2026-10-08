@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+	<path class="color-8-uppergray" d="M4.691,7.607L11.691,2.107L12.309,2.893L7.008,7.058L11.895,6.011L12.105,6.989L7.387,8L12.105,9.011L11.895,9.989L7.008,8.942L12.309,13.107L11.691,13.893L4.691,8.393L5,8Z" />
+	<path class="color-c-brightgray" d="M12,1L15,1L15,4L12,4Z" />
+	<path class="color-a-softgray" d="M12,5L15,5L15,8L12,8Z" />
+	<path class="color-8-uppergray" d="M12,9L15,9L15,12L12,12Z" />
+	<path class="color-a-softgray" d="M12,14L12,13L13,13L13,14ZM14,14L14,13L15,13L15,14ZM13,15L13,14L14,14L14,15ZM12,16L12,15L13,15L13,16ZM14,16L14,15L15,15L15,16Z" />
+	<path class="color-raster" d="M1,6L5,6L5,10L1,10Z" />
+</svg>

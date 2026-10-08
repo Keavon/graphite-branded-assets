@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+	<path class="color-gradient-dim" d="M1,5L5,5L5,11L1,11Z" />
+	<path class="color-gradient-dim" d="M5,5L11,5L11,11L5,11Z" />
+	<path class="color-mix-gradient-gradient-dim-60" d="M6,5L11,5L11,11L6,11Z" />
+	<path class="color-mix-gradient-gradient-dim-20" d="M7,5L11,5L11,11L7,11Z" />
+	<path class="color-mix-gradient-e-nearwhite-20" d="M8,5L11,5L11,11L8,11Z" />
+	<path class="color-mix-gradient-e-nearwhite-60" d="M9,5L11,5L11,11L9,11Z" />
+	<path class="color-e-nearwhite" d="M10,5L11,5L11,11L10,11Z" />
+	<path class="color-e-nearwhite" d="M11,5L15,5L15,11L11,11Z" />
+	<path class="color-a-softgray" d="M1,4L1,3L5,3L5,13L1,13L1,12L4,12L4,4ZM11,13L11,3L15,3L15,4L12,4L12,12L15,12L15,13Z" />
+</svg>

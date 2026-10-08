@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+	<path class="color-gradient-dim" d="M1,8L15,8L15,14L1,14Z" />
+	<path class="color-mix-gradient-gradient-dim-85" d="M2,8L15,8L15,14L2,14Z" />
+	<path class="color-mix-gradient-gradient-dim-70" d="M3,8L15,8L15,14L3,14Z" />
+	<path class="color-mix-gradient-gradient-dim-55" d="M4,8L15,8L15,14L4,14Z" />
+	<path class="color-mix-gradient-gradient-dim-40" d="M5,8L15,8L15,14L5,14Z" />
+	<path class="color-mix-gradient-gradient-dim-25" d="M6,8L15,8L15,14L6,14Z" />
+	<path class="color-mix-gradient-gradient-dim-5" d="M7,8L15,8L15,14L7,14Z" />
+	<path class="color-mix-gradient-e-nearwhite-10" d="M8,8L15,8L15,14L8,14Z" />
+	<path class="color-mix-gradient-e-nearwhite-25" d="M9,8L15,8L15,14L9,14Z" />
+	<path class="color-mix-gradient-e-nearwhite-40" d="M10,8L15,8L15,14L10,14Z" />
+	<path class="color-mix-gradient-e-nearwhite-55" d="M11,8L15,8L15,14L11,14Z" />
+	<path class="color-mix-gradient-e-nearwhite-70" d="M12,8L15,8L15,14L12,14Z" />
+	<path class="color-mix-gradient-e-nearwhite-85" d="M13,8L15,8L15,14L13,14Z" />
+	<path class="color-e-nearwhite" d="M14,8L15,8L15,14L14,14Z" />
+	<path class="color-a-softgray" d="M13,2L13,0L15,2L15,3L13,5L13,3L4,3L4,2ZM4,16L4,6L12,6L12,16ZM5,7L5,15L11,15L11,7Z" />
+</svg>

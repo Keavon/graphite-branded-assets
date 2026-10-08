@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+	<path class="color-typography-dim" d="M2,3L3,2L4,2L4,3L3,3L3,7L2,8L3,9L3,13L4,13L4,14L3,14L2,13L2,9L1,8L2,7ZM9,3L9,2L10,2L11,3L11,7L12,8L11,9L11,13L10,14L9,14L9,13L10,13L10,9L11,8L10,7L10,3Z" />
+	<path class="color-8-uppergray" d="M4,12L4,4L5,4L5,5L8,5L8,6L5,6L5,8L8,8L8,9L5,9L5,11L8,11L8,12Z" />
+	<path class="color-typography" d="M13,10L13,6L15,6L15,10Z" />
+</svg>

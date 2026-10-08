@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+	<path class="color-raster" d="M1,1L11,1L11,9L1,9Z" />
+	<path class="color-raster-dim" d="M1,9L1,7.56L3.5,5.16L5.167,6.76L7.667,3.72L11,7.08L11,9Z" />
+	<path class="color-e-nearwhite" d="M2.127,3.08A1.04,1.04,0,1,1,4.207,3.08A1.04,1.04,0,1,1,2.127,3.08Z" />
+	<path class="color-mix-color-e-nearwhite-50" d="M4,12L7,12L7,15L4,15Z" />
+	<path class="color-color" d="M8,12L11,12L11,15L8,15Z" />
+	<path class="color-color-dim" d="M12,12L15,12L15,15L12,15Z" />
+</svg>

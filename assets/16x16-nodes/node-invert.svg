@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+	<path class="color-a-softgray" d="M1,9L1,1L9,1L9,8L16,8L16,16L8,16L8,9ZM2,2L2,8L8,8L8,2ZM9,9L9,15L15,15L15,9Z" />
+	<path class="color-raster" d="M3,7L3,3L7,3ZM10,14L14,10L14,14Z" />
+</svg>

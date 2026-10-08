@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+	<path class="color-mix-7-middlegray-8-uppergray-40" d="M1,1L15,1L15,7L1,7Z" />
+	<path class="color-mix-8-uppergray-9-palegray-70" d="M3,1L15,1L15,7L3,7Z" />
+	<path class="color-mix-9-palegray-a-softgray-95" d="M5,1L15,1L15,7L5,7Z" />
+	<path class="color-mix-b-lightgray-c-brightgray-25" d="M7,1L15,1L15,7L7,7Z" />
+	<path class="color-general" d="M9,1L15,1L15,7L9,7Z" />
+	<path class="color-mix-d-mildwhite-e-nearwhite-5" d="M11,1L15,1L15,7L11,7Z" />
+	<path class="color-e-nearwhite" d="M13,1L15,1L15,7L13,7Z" />
+	<path class="color-raster-dim" d="M1,8L15,8L15,14L1,14Z" />
+	<path class="color-mix-raster-raster-dim-65" d="M3,8L15,8L15,14L3,14Z" />
+	<path class="color-mix-raster-raster-dim-35" d="M5,8L15,8L15,14L5,14Z" />
+	<path class="color-raster" d="M7,8L15,8L15,14L7,14Z" />
+	<path class="color-mix-raster-e-nearwhite-35" d="M9,8L15,8L15,14L9,14Z" />
+	<path class="color-mix-raster-e-nearwhite-65" d="M11,8L15,8L15,14L11,14Z" />
+	<path class="color-e-nearwhite" d="M13,8L15,8L15,14L13,14Z" />
+</svg>

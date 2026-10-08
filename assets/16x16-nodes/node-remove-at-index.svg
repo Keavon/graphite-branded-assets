@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+	<path class="color-general-dim" d="M1,8.707L1,5L2,5L2,8.293L5,11.293L5,12L4,12L4,11.707ZM5,8.707L5,5L6,5L6,8.293L9,11.293L9,12L8,12L8,11.707ZM15,8.293L15,5L16,5L16,8.707L13,11.707L13,12L12,12L12,11.293Z" />
+	<path class="color-a-softgray" d="M0,5L0,2L3,2L3,5ZM4,5L4,2L7,2L7,5ZM14,5L14,2L17,2L17,5Z" />
+	<path class="color-7-middlegray" d="M9,5L9,2L12,2L12,5Z" />
+	<path class="color-general" d="M3,15L3,12L6,12L6,15ZM7,15L7,12L10,12L10,15ZM11,15L11,12L14,12L14,15Z" />
+	<path class="color-number" d="M8,7L8,0L10,0L10,1L9,1L9,6L10,6L10,7ZM11,1L11,0L13,0L13,7L11,7L11,6L12,6L12,1Z" />
+</svg>

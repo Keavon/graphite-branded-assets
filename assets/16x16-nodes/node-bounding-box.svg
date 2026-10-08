@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+	<path class="color-vector" d="M1,1L15,1L15,15L1,15Z" />
+	<path class="color-e-nearwhite" d="M1,14.5L1,1L14.5,1L14.5,1.5L1.5,1.5L1.5,14.5Z" />
+	<path class="color-vector-dim" d="M14.5,14.5L14.5,1L15,1L15,15L1,15L1,14.5Z" />
+	<path class="color-vector-dim" d="M1,4L12,1L15,9L4,15ZM10.767,3.409L3.456,5.403L5.264,12.033L12.517,8.076Z" />
+</svg>

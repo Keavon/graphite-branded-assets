@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+	<path class="color-typography" d="M1,3L2,1L3,1L2,3L3,3L3,5L1,5ZM4,3L5,1L6,1L5,3L6,3L6,5L4,5ZM8,3L8,1L10,1L10,3L9,5L8,5L9,3ZM11,3L11,1L13,1L13,3L12,5L11,5L12,3Z" />
+	<path class="color-color" d="M9,8L14,8A1,1,0,0,1,15,9L15,14A1,1,0,0,1,14,15L9,15A1,1,0,0,1,8,14L8,9A1,1,0,0,1,9,8Z" />
+</svg>
