@@ -1,8 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
 	<path class="color-graphic-dim" d="M2,9.5C2,7.94,2.794,6.565,4,5.758L4,11C4,11.552,4.448,12,5,12L10.242,12C9.435,13.206,8.06,14,6.5,14C4.015,14,2,11.985,2,9.5Z" />
 	<path class="color-raster" d="M5,11L5,1L15,1L15,11ZM6,2L6,10L14,10L14,2Z" />
-	<path class="color-e-nearwhite" d="M5,10.5L5,1L14.5,1L14.5,1.5L5.5,1.5L5.5,10.5Z" />
-	<path class="color-raster-dim" d="M14.5,10.5L14.5,1L15,1L15,11L5,11L5,10.5Z" />
 	<path class="color-graphic-dim" d="M6,6L6,4L8,4L8,6ZM10,10L10,8L12,8L12,10Z" />
 	<path class="color-graphic" d="M6,10L6,6L10,6L10,10Z" />
 </svg>

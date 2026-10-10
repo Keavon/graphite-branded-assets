@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-	<path class="color-vector" d="M1,3L15,3L15,13L1,13Z" />
-	<path class="color-e-nearwhite" d="M1,12L1,3L14,3L14,4L2,4L2,12Z" />
-	<path class="color-vector-dim" d="M14,12L14,3L15,3L15,13L1,13L1,12Z" />
+	<path class="color-vector-dim" d="M1,3L15,3L15,13L1,13Z" />
+	<path class="color-vector" d="M1,13L1,3L15,3L15,13ZM2,4L2,12L14,12L14,4Z" />
+	<path class="color-vector" d="M3,11L3,5L13,5L13,11Z" />
 </svg>
