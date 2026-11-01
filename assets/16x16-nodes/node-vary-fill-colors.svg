@@ -15,11 +15,8 @@
 	<path class="color-e-nearwhite" d="M14,1L15,1L15,4L14,4Z" />
 	<path class="color-color" d="M1,5L5,5L3,7Z" />
 	<path class="color-mix-gradient-gradient-dim-85" d="M1.5,8L5.5,8L4.5,15L0.5,15Z" />
-	<path class="color-vector" d="M0.5,15L1.5,8L5.5,8L4.5,15ZM2.367,9L1.653,14L3.633,14L4.347,9Z" />
 	<path class="color-color" d="M6,5L10,5L8,7Z" />
 	<path class="color-mix-gradient-gradient-dim-5" d="M6.5,8L10.5,8L9.5,15L5.5,15Z" />
-	<path class="color-vector" d="M5.5,15L6.5,8L10.5,8L9.5,15ZM7.367,9L6.653,14L8.633,14L9.347,9Z" />
 	<path class="color-color" d="M11,5L15,5L13,7Z" />
 	<path class="color-mix-gradient-e-nearwhite-70" d="M11.5,8L15.5,8L14.5,15L10.5,15Z" />
-	<path class="color-vector" d="M10.5,15L11.5,8L15.5,8L14.5,15ZM12.367,9L11.653,14L13.633,14L14.347,9Z" />
 </svg>
