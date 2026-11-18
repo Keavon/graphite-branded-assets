@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+	<path class="color-graphic" d="M5,5L11,5L11,11L5,11Z" />
+	<path class="color-raster" d="M2,2L14,2L12,4L4,4L4,12L2,14Z" />
+	<path class="color-mix-raster-dim-7-middlegray-50" d="M14,2L14,14L2,14L4,12L12,12L12,4Z" />
+</svg>
